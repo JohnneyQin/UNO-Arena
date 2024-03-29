@@ -1,2 +1,2 @@
 # UNO-Arena
-UNO Arena for Evaluating Sequential Decision-Making of LLMs
+For this paper: *UNO Arena for Evaluating Sequential Decision-Making of LLMs*
