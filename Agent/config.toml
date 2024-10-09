@@ -1,0 +1,62 @@
+[GPT3]
+api_base = "https://api.chatgptapi.org.cn/v1"
+api_key = "sk-6MkALyt5xL7QqD5m8a19D415685041Ae9160Ff31B43dBa50"
+organization = "N/A"
+model_list = [
+    'gpt-3.5-turbo-16k-0613'
+]
+
+[GPT4]
+api_base = "https://api.chatgptapi.org.cn/v1"
+api_key = "sk-6MkALyt5xL7QqD5m8a19D415685041Ae9160Ff31B43dBa50"
+organization = "N/A"
+model_list = [
+    'gpt-4-1106-preview'
+]
+
+[Gemini]
+api_base = "http://43.135.130.36:40001/chat"
+api_key = "AIzaSyDqW-UtD6feexyEKOoCbno-g09pwdHxPMA"
+secret_key = "N/A"
+organization = "N/A"
+model_list = [
+    'gemini-pro'
+]
+
+[Llama2]
+api_base = "http://127.0.0.1:40001/chat"
+api_key = "N/A"
+organization = "N/A"
+model_list = [
+    'Llama-2-7b-chat'
+]
+
+[GLM3]
+api_base = "http://210.75.240.137:40001/chat"
+api_key = "N/A"
+organization = "N/A"
+model_list = [
+    'chatglm3-6b'
+]
+
+[Gemma]
+api_base = "http://210.75.240.137:40001/chat"
+api_key = "N/A"
+organization = "N/A"
+model_list = [
+    'gemma-7b'
+]
+
+[Mistral]
+api_base = "http://210.75.240.137:50001/chat"
+api_key = "N/A"
+organization = "N/A"
+model_list = [
+    'Mistral-7B-Instruct-v0.1'
+]
+
+
+
+
+
+
